@@ -1,0 +1,12 @@
+E:\Tahaluf\Github\Web-Application-Programming-Interface-API-\Day1\TahalufBatch3\Tahaluf.Batch3.Infra\bin\Debug\netcoreapp3.1\Tahaluf.Batch3.Infra.deps.json
+E:\Tahaluf\Github\Web-Application-Programming-Interface-API-\Day1\TahalufBatch3\Tahaluf.Batch3.Infra\bin\Debug\netcoreapp3.1\Tahaluf.Batch3.Infra.dll
+E:\Tahaluf\Github\Web-Application-Programming-Interface-API-\Day1\TahalufBatch3\Tahaluf.Batch3.Infra\bin\Debug\netcoreapp3.1\Tahaluf.Batch3.Infra.pdb
+E:\Tahaluf\Github\Web-Application-Programming-Interface-API-\Day1\TahalufBatch3\Tahaluf.Batch3.Infra\obj\Debug\netcoreapp3.1\Tahaluf.Batch3.Infra.csprojAssemblyReference.cache
+E:\Tahaluf\Github\Web-Application-Programming-Interface-API-\Day1\TahalufBatch3\Tahaluf.Batch3.Infra\obj\Debug\netcoreapp3.1\Tahaluf.Batch3.Infra.AssemblyInfoInputs.cache
+E:\Tahaluf\Github\Web-Application-Programming-Interface-API-\Day1\TahalufBatch3\Tahaluf.Batch3.Infra\obj\Debug\netcoreapp3.1\Tahaluf.Batch3.Infra.AssemblyInfo.cs
+E:\Tahaluf\Github\Web-Application-Programming-Interface-API-\Day1\TahalufBatch3\Tahaluf.Batch3.Infra\obj\Debug\netcoreapp3.1\Tahaluf.Batch3.Infra.csproj.CoreCompileInputs.cache
+E:\Tahaluf\Github\Web-Application-Programming-Interface-API-\Day1\TahalufBatch3\Tahaluf.Batch3.Infra\obj\Debug\netcoreapp3.1\Tahaluf.Batch3.Infra.dll
+E:\Tahaluf\Github\Web-Application-Programming-Interface-API-\Day1\TahalufBatch3\Tahaluf.Batch3.Infra\obj\Debug\netcoreapp3.1\Tahaluf.Batch3.Infra.pdb
+E:\Tahaluf\Github\Web-Application-Programming-Interface-API-\Day1\TahalufBatch3\Tahaluf.Batch3.Infra\bin\Debug\netcoreapp3.1\Tahaluf.Batch3.Core.dll
+E:\Tahaluf\Github\Web-Application-Programming-Interface-API-\Day1\TahalufBatch3\Tahaluf.Batch3.Infra\bin\Debug\netcoreapp3.1\Tahaluf.Batch3.Core.pdb
+E:\Tahaluf\Github\Web-Application-Programming-Interface-API-\Day1\TahalufBatch3\Tahaluf.Batch3.Infra\obj\Debug\netcoreapp3.1\Tahaluf.Batch3.Infra.csproj.CopyComplete
