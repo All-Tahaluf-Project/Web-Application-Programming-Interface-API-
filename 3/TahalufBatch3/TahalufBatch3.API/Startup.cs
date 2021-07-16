@@ -10,6 +10,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Tahaluf.Batch3.Core.Services;
+using Tahaluf.Batch3.Infra.Service;
 
 namespace TahalufBatch3.API
 {
@@ -26,6 +28,9 @@ namespace TahalufBatch3.API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+
+            services.AddScoped<ICourseSevice, CourseService>();
+            services.AddScoped<IMyClass, MyClassService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

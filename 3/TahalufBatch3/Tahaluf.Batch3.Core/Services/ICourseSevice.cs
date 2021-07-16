@@ -9,6 +9,13 @@ namespace Tahaluf.Batch3.Core.Services
     {
         public List<Courses> GetAll();
         public bool AddCourse(Courses model);
-        public bool DeleteCourse(Courses model);
+        public bool DeleteCourse(int model);
+    }
+
+    public interface IMyClass
+    {
+        public List<MyClass> GetAll();
+        public List<MyClass> SearchByName(string Name);
+        public MyClass SearchByOneName(string Name);
     }
 }

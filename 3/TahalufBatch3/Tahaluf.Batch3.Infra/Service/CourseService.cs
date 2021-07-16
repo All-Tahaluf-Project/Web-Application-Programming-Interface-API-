@@ -40,8 +40,6 @@ namespace Tahaluf.Batch3.Infra.Service
             },
         };
 
-
-
         public List<Courses> GetAll()
         {
             return ListCoures;
@@ -81,9 +79,9 @@ namespace Tahaluf.Batch3.Infra.Service
 
 
 
-        public bool DeleteCourse(Courses model)
+        public bool DeleteCourse(int id)
         {
-            var Course = ListCoures.FirstOrDefault(a => a.Id == model.Id);
+            var Course = ListCoures.FirstOrDefault(a => a.Id == id);
 
             if (Course == null) { return false; }
 
@@ -93,5 +91,40 @@ namespace Tahaluf.Batch3.Infra.Service
         }
 
 
+    }
+
+
+    public class MyClassService : IMyClass
+    {
+        private static List<MyClass> MyList = new List<MyClass>()
+        {
+            new MyClass()
+            {
+                Name = "AAA"
+            },
+            new MyClass()
+            {
+                Name = "A"
+            },
+            new MyClass()
+            {
+                Name = "AA"
+            }
+        };
+
+        public List<MyClass> GetAll()
+        {
+            return MyList;
+        }
+
+        public List<MyClass> SearchByName(string Name)
+        {
+            return MyList.Where(a => a.Name.Contains(Name)).ToList();
+        }
+
+        public MyClass SearchByOneName(string Name)
+        {
+            return MyList.FirstOrDefault(a => a.Name == Name);
+        }
     }
 }

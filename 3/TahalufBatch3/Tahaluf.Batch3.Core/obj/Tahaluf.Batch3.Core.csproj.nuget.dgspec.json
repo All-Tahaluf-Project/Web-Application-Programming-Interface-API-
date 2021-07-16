@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Tahaluf\\Github\\Web-Application-Programming-Interface-API-\\Day1\\TahalufBatch3\\Tahaluf.Batch3.Core\\Tahaluf.Batch3.Core.csproj": {}
+    "E:\\Tahaluf\\Github\\Web-Application-Programming-Interface-API-\\3\\TahalufBatch3\\Tahaluf.Batch3.Core\\Tahaluf.Batch3.Core.csproj": {}
   },
   "projects": {
-    "E:\\Tahaluf\\Github\\Web-Application-Programming-Interface-API-\\Day1\\TahalufBatch3\\Tahaluf.Batch3.Core\\Tahaluf.Batch3.Core.csproj": {
+    "E:\\Tahaluf\\Github\\Web-Application-Programming-Interface-API-\\3\\TahalufBatch3\\Tahaluf.Batch3.Core\\Tahaluf.Batch3.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Tahaluf\\Github\\Web-Application-Programming-Interface-API-\\Day1\\TahalufBatch3\\Tahaluf.Batch3.Core\\Tahaluf.Batch3.Core.csproj",
+        "projectUniqueName": "E:\\Tahaluf\\Github\\Web-Application-Programming-Interface-API-\\3\\TahalufBatch3\\Tahaluf.Batch3.Core\\Tahaluf.Batch3.Core.csproj",
         "projectName": "Tahaluf.Batch3.Core",
-        "projectPath": "E:\\Tahaluf\\Github\\Web-Application-Programming-Interface-API-\\Day1\\TahalufBatch3\\Tahaluf.Batch3.Core\\Tahaluf.Batch3.Core.csproj",
+        "projectPath": "E:\\Tahaluf\\Github\\Web-Application-Programming-Interface-API-\\3\\TahalufBatch3\\Tahaluf.Batch3.Core\\Tahaluf.Batch3.Core.csproj",
         "packagesPath": "C:\\Users\\OsAmA AL-Daja\\.nuget\\packages\\",
-        "outputPath": "E:\\Tahaluf\\Github\\Web-Application-Programming-Interface-API-\\Day1\\TahalufBatch3\\Tahaluf.Batch3.Core\\obj\\",
+        "outputPath": "E:\\Tahaluf\\Github\\Web-Application-Programming-Interface-API-\\3\\TahalufBatch3\\Tahaluf.Batch3.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\OsAmA AL-Daja\\AppData\\Roaming\\NuGet\\NuGet.Config",

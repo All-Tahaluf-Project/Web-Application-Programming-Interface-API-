@@ -7,3 +7,12 @@ E:\Tahaluf\Github\Web-Application-Programming-Interface-API-\Day1\TahalufBatch3\
 E:\Tahaluf\Github\Web-Application-Programming-Interface-API-\Day1\TahalufBatch3\Tahaluf.Batch3.Core\obj\Debug\netcoreapp3.1\Tahaluf.Batch3.Core.csproj.CoreCompileInputs.cache
 E:\Tahaluf\Github\Web-Application-Programming-Interface-API-\Day1\TahalufBatch3\Tahaluf.Batch3.Core\obj\Debug\netcoreapp3.1\Tahaluf.Batch3.Core.dll
 E:\Tahaluf\Github\Web-Application-Programming-Interface-API-\Day1\TahalufBatch3\Tahaluf.Batch3.Core\obj\Debug\netcoreapp3.1\Tahaluf.Batch3.Core.pdb
+E:\Tahaluf\Github\Web-Application-Programming-Interface-API-\3\TahalufBatch3\Tahaluf.Batch3.Core\bin\Debug\netcoreapp3.1\Tahaluf.Batch3.Core.deps.json
+E:\Tahaluf\Github\Web-Application-Programming-Interface-API-\3\TahalufBatch3\Tahaluf.Batch3.Core\bin\Debug\netcoreapp3.1\Tahaluf.Batch3.Core.dll
+E:\Tahaluf\Github\Web-Application-Programming-Interface-API-\3\TahalufBatch3\Tahaluf.Batch3.Core\bin\Debug\netcoreapp3.1\Tahaluf.Batch3.Core.pdb
+E:\Tahaluf\Github\Web-Application-Programming-Interface-API-\3\TahalufBatch3\Tahaluf.Batch3.Core\obj\Debug\netcoreapp3.1\Tahaluf.Batch3.Core.csprojAssemblyReference.cache
+E:\Tahaluf\Github\Web-Application-Programming-Interface-API-\3\TahalufBatch3\Tahaluf.Batch3.Core\obj\Debug\netcoreapp3.1\Tahaluf.Batch3.Core.AssemblyInfoInputs.cache
+E:\Tahaluf\Github\Web-Application-Programming-Interface-API-\3\TahalufBatch3\Tahaluf.Batch3.Core\obj\Debug\netcoreapp3.1\Tahaluf.Batch3.Core.AssemblyInfo.cs
+E:\Tahaluf\Github\Web-Application-Programming-Interface-API-\3\TahalufBatch3\Tahaluf.Batch3.Core\obj\Debug\netcoreapp3.1\Tahaluf.Batch3.Core.csproj.CoreCompileInputs.cache
+E:\Tahaluf\Github\Web-Application-Programming-Interface-API-\3\TahalufBatch3\Tahaluf.Batch3.Core\obj\Debug\netcoreapp3.1\Tahaluf.Batch3.Core.dll
+E:\Tahaluf\Github\Web-Application-Programming-Interface-API-\3\TahalufBatch3\Tahaluf.Batch3.Core\obj\Debug\netcoreapp3.1\Tahaluf.Batch3.Core.pdb

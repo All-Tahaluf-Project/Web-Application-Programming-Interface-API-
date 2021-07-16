@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Tahaluf\\Github\\Web-Application-Programming-Interface-API-\\Day1\\Tahaluf.Course\\Tahaluf.Course.API\\Tahaluf.Course.API.csproj": {}
+    "E:\\Tahaluf\\Github\\Web-Application-Programming-Interface-API-\\2\\Tahaluf.Course\\Tahaluf.Course.API\\Tahaluf.Course.API.csproj": {}
   },
   "projects": {
-    "E:\\Tahaluf\\Github\\Web-Application-Programming-Interface-API-\\Day1\\Tahaluf.Course\\Tahaluf.Course.API\\Tahaluf.Course.API.csproj": {
+    "E:\\Tahaluf\\Github\\Web-Application-Programming-Interface-API-\\2\\Tahaluf.Course\\Tahaluf.Course.API\\Tahaluf.Course.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Tahaluf\\Github\\Web-Application-Programming-Interface-API-\\Day1\\Tahaluf.Course\\Tahaluf.Course.API\\Tahaluf.Course.API.csproj",
+        "projectUniqueName": "E:\\Tahaluf\\Github\\Web-Application-Programming-Interface-API-\\2\\Tahaluf.Course\\Tahaluf.Course.API\\Tahaluf.Course.API.csproj",
         "projectName": "Tahaluf.Course.API",
-        "projectPath": "E:\\Tahaluf\\Github\\Web-Application-Programming-Interface-API-\\Day1\\Tahaluf.Course\\Tahaluf.Course.API\\Tahaluf.Course.API.csproj",
+        "projectPath": "E:\\Tahaluf\\Github\\Web-Application-Programming-Interface-API-\\2\\Tahaluf.Course\\Tahaluf.Course.API\\Tahaluf.Course.API.csproj",
         "packagesPath": "C:\\Users\\OsAmA AL-Daja\\.nuget\\packages\\",
-        "outputPath": "E:\\Tahaluf\\Github\\Web-Application-Programming-Interface-API-\\Day1\\Tahaluf.Course\\Tahaluf.Course.API\\obj\\",
+        "outputPath": "E:\\Tahaluf\\Github\\Web-Application-Programming-Interface-API-\\2\\Tahaluf.Course\\Tahaluf.Course.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\OsAmA AL-Daja\\AppData\\Roaming\\NuGet\\NuGet.Config",

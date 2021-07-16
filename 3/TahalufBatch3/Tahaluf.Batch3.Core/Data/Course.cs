@@ -12,4 +12,9 @@ namespace Tahaluf.Batch3.Core.Data
         public DateTime Date { get; set; }
         public string Category { get; set; }
     }
+
+    public class MyClass
+    {
+        public string Name { get; set; }
+    }
 }
