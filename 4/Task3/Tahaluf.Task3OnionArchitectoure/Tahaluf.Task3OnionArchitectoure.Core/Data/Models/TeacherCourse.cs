@@ -11,6 +11,6 @@ namespace Tahaluf.Task3OnionArchitectoure.Core.Data.Models
         public int TeacherId { get; set; }
         public virtual Course Course { get; set; }
         public virtual Book Book { get; set; }
-        public object TeacherName { get; set; }
+        public string TeacherName { get; set; }
     }
 }
