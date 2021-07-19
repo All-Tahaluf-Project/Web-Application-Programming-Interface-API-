@@ -11,7 +11,7 @@ namespace Tahaluf.Task3OnionArchitectoure.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class TeacherCourseController : ControllerBase
+    public class TeacherCourseController : Controller
     {
         IServiceTeacherCourse _serviceTeacherCourse;
         public TeacherCourseController(IServiceTeacherCourse serviceTeacher)
