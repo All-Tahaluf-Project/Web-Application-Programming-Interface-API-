@@ -1,0 +1,9 @@
+E:\Tahaluf\Github\Web-Application-Programming-Interface-API-\4\Our Project\OurProject\OurProject.Core\bin\Debug\netcoreapp3.1\OurProject.Core.deps.json
+E:\Tahaluf\Github\Web-Application-Programming-Interface-API-\4\Our Project\OurProject\OurProject.Core\bin\Debug\netcoreapp3.1\OurProject.Core.dll
+E:\Tahaluf\Github\Web-Application-Programming-Interface-API-\4\Our Project\OurProject\OurProject.Core\bin\Debug\netcoreapp3.1\OurProject.Core.pdb
+E:\Tahaluf\Github\Web-Application-Programming-Interface-API-\4\Our Project\OurProject\OurProject.Core\obj\Debug\netcoreapp3.1\OurProject.Core.csprojAssemblyReference.cache
+E:\Tahaluf\Github\Web-Application-Programming-Interface-API-\4\Our Project\OurProject\OurProject.Core\obj\Debug\netcoreapp3.1\OurProject.Core.AssemblyInfoInputs.cache
+E:\Tahaluf\Github\Web-Application-Programming-Interface-API-\4\Our Project\OurProject\OurProject.Core\obj\Debug\netcoreapp3.1\OurProject.Core.AssemblyInfo.cs
+E:\Tahaluf\Github\Web-Application-Programming-Interface-API-\4\Our Project\OurProject\OurProject.Core\obj\Debug\netcoreapp3.1\OurProject.Core.csproj.CoreCompileInputs.cache
+E:\Tahaluf\Github\Web-Application-Programming-Interface-API-\4\Our Project\OurProject\OurProject.Core\obj\Debug\netcoreapp3.1\OurProject.Core.dll
+E:\Tahaluf\Github\Web-Application-Programming-Interface-API-\4\Our Project\OurProject\OurProject.Core\obj\Debug\netcoreapp3.1\OurProject.Core.pdb

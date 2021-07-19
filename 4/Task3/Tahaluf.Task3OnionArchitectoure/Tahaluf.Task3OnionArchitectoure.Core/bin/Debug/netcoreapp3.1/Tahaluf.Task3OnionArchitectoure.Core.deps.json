@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tahaluf.Task3OnionArchitectoure.Core/1.0.0": {
+        "runtime": {
+          "Tahaluf.Task3OnionArchitectoure.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tahaluf.Task3OnionArchitectoure.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Tahaluf.Task3OnionArchitectoure.Core\Tahaluf.Task3OnionArchitectoure.Core.csproj" />
+    <ProjectReference Include="..\Tahaluf.Task3OnionArchitectoure.Infra\Tahaluf.Task3OnionArchitectoure.Infra.csproj" />
+  </ItemGroup>
+
+
+</Project>

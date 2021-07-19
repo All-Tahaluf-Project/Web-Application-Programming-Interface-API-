@@ -1,0 +1,198 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Tahaluf\\Github\\Web-Application-Programming-Interface-API-\\4\\Task3\\Tahaluf.Task3OnionArchitectoure\\Tahaluf.Task3OnionArchitectoure\\Tahaluf.Task3OnionArchitectoure.API.csproj": {}
+  },
+  "projects": {
+    "E:\\Tahaluf\\Github\\Web-Application-Programming-Interface-API-\\4\\Task3\\Tahaluf.Task3OnionArchitectoure\\Tahaluf.Task3OnionArchitectoure.Core\\Tahaluf.Task3OnionArchitectoure.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Tahaluf\\Github\\Web-Application-Programming-Interface-API-\\4\\Task3\\Tahaluf.Task3OnionArchitectoure\\Tahaluf.Task3OnionArchitectoure.Core\\Tahaluf.Task3OnionArchitectoure.Core.csproj",
+        "projectName": "Tahaluf.Task3OnionArchitectoure.Core",
+        "projectPath": "E:\\Tahaluf\\Github\\Web-Application-Programming-Interface-API-\\4\\Task3\\Tahaluf.Task3OnionArchitectoure\\Tahaluf.Task3OnionArchitectoure.Core\\Tahaluf.Task3OnionArchitectoure.Core.csproj",
+        "packagesPath": "C:\\Users\\OsAmA AL-Daja\\.nuget\\packages\\",
+        "outputPath": "E:\\Tahaluf\\Github\\Web-Application-Programming-Interface-API-\\4\\Task3\\Tahaluf.Task3OnionArchitectoure\\Tahaluf.Task3OnionArchitectoure.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\OsAmA AL-Daja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.205\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Tahaluf\\Github\\Web-Application-Programming-Interface-API-\\4\\Task3\\Tahaluf.Task3OnionArchitectoure\\Tahaluf.Task3OnionArchitectoure.Infra\\Tahaluf.Task3OnionArchitectoure.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Tahaluf\\Github\\Web-Application-Programming-Interface-API-\\4\\Task3\\Tahaluf.Task3OnionArchitectoure\\Tahaluf.Task3OnionArchitectoure.Infra\\Tahaluf.Task3OnionArchitectoure.Infra.csproj",
+        "projectName": "Tahaluf.Task3OnionArchitectoure.Infra",
+        "projectPath": "E:\\Tahaluf\\Github\\Web-Application-Programming-Interface-API-\\4\\Task3\\Tahaluf.Task3OnionArchitectoure\\Tahaluf.Task3OnionArchitectoure.Infra\\Tahaluf.Task3OnionArchitectoure.Infra.csproj",
+        "packagesPath": "C:\\Users\\OsAmA AL-Daja\\.nuget\\packages\\",
+        "outputPath": "E:\\Tahaluf\\Github\\Web-Application-Programming-Interface-API-\\4\\Task3\\Tahaluf.Task3OnionArchitectoure\\Tahaluf.Task3OnionArchitectoure.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\OsAmA AL-Daja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\Tahaluf\\Github\\Web-Application-Programming-Interface-API-\\4\\Task3\\Tahaluf.Task3OnionArchitectoure\\Tahaluf.Task3OnionArchitectoure.Core\\Tahaluf.Task3OnionArchitectoure.Core.csproj": {
+                "projectPath": "E:\\Tahaluf\\Github\\Web-Application-Programming-Interface-API-\\4\\Task3\\Tahaluf.Task3OnionArchitectoure\\Tahaluf.Task3OnionArchitectoure.Core\\Tahaluf.Task3OnionArchitectoure.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.205\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Tahaluf\\Github\\Web-Application-Programming-Interface-API-\\4\\Task3\\Tahaluf.Task3OnionArchitectoure\\Tahaluf.Task3OnionArchitectoure\\Tahaluf.Task3OnionArchitectoure.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Tahaluf\\Github\\Web-Application-Programming-Interface-API-\\4\\Task3\\Tahaluf.Task3OnionArchitectoure\\Tahaluf.Task3OnionArchitectoure\\Tahaluf.Task3OnionArchitectoure.API.csproj",
+        "projectName": "Tahaluf.Task3OnionArchitectoure.API",
+        "projectPath": "E:\\Tahaluf\\Github\\Web-Application-Programming-Interface-API-\\4\\Task3\\Tahaluf.Task3OnionArchitectoure\\Tahaluf.Task3OnionArchitectoure\\Tahaluf.Task3OnionArchitectoure.API.csproj",
+        "packagesPath": "C:\\Users\\OsAmA AL-Daja\\.nuget\\packages\\",
+        "outputPath": "E:\\Tahaluf\\Github\\Web-Application-Programming-Interface-API-\\4\\Task3\\Tahaluf.Task3OnionArchitectoure\\Tahaluf.Task3OnionArchitectoure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\OsAmA AL-Daja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\Tahaluf\\Github\\Web-Application-Programming-Interface-API-\\4\\Task3\\Tahaluf.Task3OnionArchitectoure\\Tahaluf.Task3OnionArchitectoure.Core\\Tahaluf.Task3OnionArchitectoure.Core.csproj": {
+                "projectPath": "E:\\Tahaluf\\Github\\Web-Application-Programming-Interface-API-\\4\\Task3\\Tahaluf.Task3OnionArchitectoure\\Tahaluf.Task3OnionArchitectoure.Core\\Tahaluf.Task3OnionArchitectoure.Core.csproj"
+              },
+              "E:\\Tahaluf\\Github\\Web-Application-Programming-Interface-API-\\4\\Task3\\Tahaluf.Task3OnionArchitectoure\\Tahaluf.Task3OnionArchitectoure.Infra\\Tahaluf.Task3OnionArchitectoure.Infra.csproj": {
+                "projectPath": "E:\\Tahaluf\\Github\\Web-Application-Programming-Interface-API-\\4\\Task3\\Tahaluf.Task3OnionArchitectoure\\Tahaluf.Task3OnionArchitectoure.Infra\\Tahaluf.Task3OnionArchitectoure.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.205\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
