@@ -25,7 +25,7 @@ namespace Tahaluf.Task3OnionArchitectoure.Infra.Service
             return _repositoryTeacherCourse.DetailsTeacherCourse(Id);
         }
 
-        public List<DetailsDTOTeacherCourse> GetAllTeacherCourse()
+        public List<TeacherCourse> GetAllTeacherCourse()
         {
             return _repositoryTeacherCourse.GetAllTeacherCourse();
         }

@@ -10,7 +10,7 @@ namespace Tahaluf.Task3OnionArchitectoure.Core.Service
     {
         public int InsertTeacherCourse(TeacherCourse model);
         public int UpdateTeacherCourse(TeacherCourse model);
-        public List<DetailsDTOTeacherCourse> GetAllTeacherCourse();
+        public List<TeacherCourse> GetAllTeacherCourse();
         public int DeleteTeacherCourse(int Id);
         public DetailsDTOTeacherCourse DetailsTeacherCourse(int Id);
         public List<DetailsDTOTeacherCourse> SearchTeacherCourseFromCourse(string CourseName);

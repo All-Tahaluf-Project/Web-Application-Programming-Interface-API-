@@ -41,9 +41,9 @@ namespace Tahaluf.Task3OnionArchitectoure.Infra.Repository
             return TeacherCourse.ToArray()[0];
         }
 
-        public List<DetailsDTOTeacherCourse> GetAllTeacherCourse()
+        public List<TeacherCourse> GetAllTeacherCourse()
         {
-            return _connection.DBConnection.Query<DetailsDTOTeacherCourse>("GetAllTeacherCourse").AsList();
+            return _connection.DBConnection.Query<TeacherCourse>("GetAllTeacherCourse").AsList();
         }
 
         public int InsertTeacherCourse(TeacherCourse model)
