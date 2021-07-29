@@ -29,7 +29,7 @@ namespace Batch3.Infra.Service
             var User = _repositoryUser.GetUser(model);
             if(User == null) { return null; }
             var tokenHandler = new JwtSecurityTokenHandler();
-            var tokenKey = Encoding.ASCII.GetBytes("[SECRET USED TO SIGN AND VERIFY JWT TOKENS, IT CAN BE ANY STRING]");
+            var tokenKey = Encoding.ASCII.GetBytes("Batch4OsamaAl-Daja");
             var tokenDescriptor = new SecurityTokenDescriptor
             {
                 Subject = new ClaimsIdentity(new Claim[]
