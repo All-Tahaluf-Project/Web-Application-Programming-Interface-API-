@@ -47,7 +47,7 @@ namespace Tahaluf.Batsh3DB.API.Controllers
         }
 
         [HttpDelete]
-        public object UpdateBook(int id)
+        public object DeleteBook(int id)
         {
             if (id == 0)
             {
