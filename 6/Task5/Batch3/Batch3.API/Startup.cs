@@ -54,7 +54,7 @@ services.AddAuthentication(x =>
     y.TokenValidationParameters = new TokenValidationParameters
     {
         ValidateIssuerSigningKey = true,
-        IssuerSigningKey = new SymmetricSecurityKey(Encoding.ASCII.GetBytes("[SECRET USED TO SIGN AND VERIFY JWT TOKENS, IT CAN BE ANY STRING]")),
+        IssuerSigningKey = new SymmetricSecurityKey(Encoding.ASCII.GetBytes("Batch4OsamaAl-Daja")),
         ValidateIssuer = false,
         ValidateAudience = false
     };
