@@ -13,9 +13,8 @@ namespace Tahaluf.Task3OnionArchitectoure.Core.Data.Models
         public int TeacherId { get; set; }
         public string TeacherName { get; set; }
         public ICollection<TeacherCourse> teacherCourses { get; set; }
-
-        [ForeignKey("UserId")]
         public int UserId { get; set; }
+        [ForeignKey("UserId")]
         public virtual User User { get; set; }
     }
 }

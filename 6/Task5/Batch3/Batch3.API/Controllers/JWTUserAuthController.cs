@@ -42,6 +42,7 @@ namespace Batch3.API.Controllers
 
         [HttpPost]
         [Route("LogIn")]
+        [AllowAnonymous]
         public object LogIn(User model)
         {
             var Token = _serviceJWTUserAuth.LogIn(model);

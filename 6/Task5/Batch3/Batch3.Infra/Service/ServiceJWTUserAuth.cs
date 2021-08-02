@@ -19,11 +19,6 @@ namespace Batch3.Infra.Service
             _repositoryUser = repositoryUser;
         }
 
-        public object GetUser(User model)
-        {
-            return _repositoryUser.GetUser(model);
-        }
-
         public object LogIn(User model)
         {
             var User = _repositoryUser.GetUser(model);

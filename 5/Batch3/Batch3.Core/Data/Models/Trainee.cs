@@ -11,8 +11,8 @@ namespace Batch3.Core.Data.Models
         [Key]
         public int TraineeId { get; set; }
         public string Name { get; set; }
-        [ForeignKey("UserId")]
         public int UserId { get; set; }
+        [ForeignKey("UserId")]
         public virtual User User { get; set; }
     }
 }

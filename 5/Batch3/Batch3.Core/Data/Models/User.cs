@@ -12,8 +12,8 @@ namespace Batch3.Core.Data.Models
         public int Id { get; set; }
         public string UserName { get; set; }
         public string Password { get; set; }
-        [ForeignKey("RoleId")]
         public int RoleId { get; set; }
+        [ForeignKey("RoleId")]
         public virtual Role Role { get; set; }
 
     }
