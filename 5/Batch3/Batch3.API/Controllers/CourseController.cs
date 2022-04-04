@@ -31,9 +31,13 @@ namespace Tahaluf.Task3OnionArchitectoure.API.Controllers
         public object InsertCourse(Course model)
         {
             if (model.CourseName == null || model.CourseName == "") { return BadRequest(); }
-            _serviceCourse.InsertCourse(model);
+            var R = _serviceCourse.InsertCourse(model);
 
-            return StatusCode(201);
+            if(R == 1)
+            {
+                return StatusCode(400);
+            }
+            else { return StatusCode(201); }
         }
 
         [HttpPut]

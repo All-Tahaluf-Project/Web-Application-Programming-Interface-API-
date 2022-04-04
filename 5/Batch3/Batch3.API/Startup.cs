@@ -84,6 +84,14 @@ services.AddAuthentication(x =>
     };
 });
 
+            services.AddCors(options =>
+            {
+                options.AddPolicy("PolicyCourse", builder => builder.WithOrigins("http://localhost:4200")
+                    .SetIsOriginAllowed((host) => true)
+                    .AllowAnyMethod()
+                    .AllowAnyHeader()
+                    .AllowCredentials());
+            });
 
         }
 
@@ -95,6 +103,7 @@ services.AddAuthentication(x =>
                 app.UseDeveloperExceptionPage();
             }
 
+            app.UseCors("PolicyCourse");
 
             app.UseHttpsRedirection();
 

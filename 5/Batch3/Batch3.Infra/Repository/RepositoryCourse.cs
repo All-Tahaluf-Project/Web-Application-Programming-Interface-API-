@@ -71,11 +71,17 @@ namespace Tahaluf.Task3OnionArchitectoure.Infra.Repository
 
         public int InsertCourse(Course model)
         {
-            var P = new DynamicParameters();
-            P.Add("@CourseName", model.CourseName, DbType.String, direction: ParameterDirection.Input);
+            try
+            {
+                var P = new DynamicParameters();
+                P.Add("@CourseName", model.CourseName, DbType.String, direction: ParameterDirection.Input);
 
-            _connection.DBConnection.ExecuteAsync("InsertCourse", P, commandType: CommandType.StoredProcedure);
-            return 1;
+                return _connection.DBConnection.ExecuteAsync("AddCourse", P, commandType: CommandType.StoredProcedure).Result;
+            }
+            catch
+            {
+                return 2;
+            }
         }
 
         public int UpdateCourse(Course model)
@@ -86,7 +92,7 @@ namespace Tahaluf.Task3OnionArchitectoure.Infra.Repository
             if (Course.Count == 0) { return 0; }
 
             var P = new DynamicParameters();
-            P.Add("@CourseId", model.CourseId, DbType.Int32, direction: ParameterDirection.Input);
+            P.Add("@Id", model.CourseId, DbType.Int32, direction: ParameterDirection.Input);
             P.Add("@CourseName", model.CourseName, DbType.String, direction: ParameterDirection.Input);
 
             _connection.DBConnection.ExecuteAsync("UpdateCourse", P, commandType: CommandType.StoredProcedure);
